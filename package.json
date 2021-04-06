@@ -1,0 +1,20 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluisfer/pr.git"
+  },
+  "author": "Lastua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pluisfer/pr/issues"
+  },
+  "homepage": "https://github.com/pluisfer/pr#readme"
+}
